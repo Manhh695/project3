@@ -53,6 +53,10 @@ a {
     border-radius: 99px;
     background: #2e80ce;
 }
+.btn:hover {
+    opacity: 0.8;
+    cursor: pointer;
+}
 /* ======================== header ======================== */
 .header {
     min-height: 100vh;
